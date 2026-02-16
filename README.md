@@ -36,8 +36,9 @@ By semester end, you will have researched, prototyped, and documented a unified 
 |-----|----------|
 | **Monday** | Task assignment emails sent (CC: team leads) |
 | **Tuesday EOD** | Progress check-in (team leads post update in channel) |
-| **Thursday EOD** | All deliverables committed to GitHub |
-| **Friday 9am** | EOW summary report to Yatin |
+| **Thursday EOD** | All deliverables committed to GitHub AND individual EOW email sent to students@mail.confersolutions.ai |
+| **Friday 11am** | Group 4A Meeting with Yatin — https://meetings.dialpad.com/room/marketingandsales/3szfht32px |
+| **Friday 12pm** | Group 4B Meeting with Yatin — https://meetings.dialpad.com/room/marketingandsales/z1ez25w3vg |
 
 ---
 

@@ -168,8 +168,8 @@ Present:
 | When | What |
 |------|------|
 | **Tuesday EOD** | Sysha posts progress update in team channel — what's found, what's blocked |
-| **Thursday EOD** | All deliverables committed to GitHub |
-| **Friday 9am** | EOW summary to Yatin via Hermes |
+| **Thursday EOD** | All deliverables committed to GitHub AND individual email sent to students@mail.confersolutions.ai regarding your EOW update: What was accomplished, what are the blockers, what needs help, etc. |
+| **Friday 12pm** | Group 4B Meeting with Yatin — https://meetings.dialpad.com/room/marketingandsales/z1ez25w3vg |
 
 ---
 
